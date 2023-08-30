@@ -16,10 +16,6 @@ public class Exercicio1 {
             }
         }
 
-        // Garantindo que o trem permaneça dentro dos limites -m e m
-        //int m = 2;
-        //posicaoAtual = Math.max(-m, Math.min(m, posicaoAtual));
-
         System.out.println("Posição final do trem: " + posicaoAtual);
     }
 }
