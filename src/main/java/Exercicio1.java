@@ -11,8 +11,6 @@ public class Exercicio1 {
                 posicaoAtual++;
             } else if (comando.equals("esquerda")) {
                 posicaoAtual--;
-            } else {
-                System.out.println("Comando inválido: " + comando);
             }
         }
 
